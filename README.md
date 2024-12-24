@@ -66,7 +66,7 @@ python generate.py --task story --sd_version '1.5' --dataset_path CMIGBench
 ### 🎯 My Results
 Here are some examples of the results I achieved using the modified implementation:
 
-see the ```database_1.5``` and ```cmigbench_1.5``` directroy
+see the ```database_1.5```, `visualization` and ```cmigbench_1.5``` directroy
 
 
 ### 📊 Evaluation
