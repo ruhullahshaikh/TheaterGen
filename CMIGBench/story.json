@@ -1,0 +1,140 @@
+{
+    "dialogue 1": {
+        "characters": [
+            "sparrow",
+            "lion",
+            "eagle"
+        ],
+        "scene": [
+            "library"
+        ],
+        "turn 1": {
+            "caption": "In the silent library, a tiny sparrow was fluttering near a shelf.",
+            "objects": [
+                [
+                    "a tiny sparrow",
+                    [
+                        115,
+                        170,
+                        89,
+                        59
+                    ],
+                    1
+                ],
+                [
+                    "a library shelf",
+                    [
+                        215,
+                        165,
+                        171,
+                        171
+                    ],
+                    2
+                ]
+            ],
+            "background": "A silent library",
+            "negative": "None"
+        },
+        "turn 2": {
+            "caption": "An attentive lion in one corner was carefully observing the bird and holding its breath.",
+            "objects": [
+                [
+                    "an attentive lion",
+                    [
+                        300,
+                        221,
+                        162,
+                        180
+                    ],
+                    3
+                ],
+                [
+                    "a tiny sparrow",
+                    [
+                        40,
+                        101,
+                        89,
+                        59
+                    ],
+                    1
+                ]
+            ],
+            "background": "A silent library",
+            "negative": "None"
+        },
+        "turn 3": {
+            "caption": "Above them, a vigilant eagle watched the suspenseful scene unfold from the library ceiling.",
+            "objects": [
+                [
+                    "a vigilant eagle",
+                    [
+                        345,
+                        41,
+                        119,
+                        72
+                    ],
+                    4
+                ],
+                [
+                    "an observing lion",
+                    [
+                        295,
+                        281,
+                        162,
+                        180
+                    ],
+                    3
+                ],
+                [
+                    "a sparrow",
+                    [
+                        45,
+                        171,
+                        89,
+                        59
+                    ],
+                    1
+                ]
+            ],
+            "background": "A silent library",
+            "negative": "None"
+        },
+        "turn 4": {
+            "caption": "The scenario ended peacefully as the eagle, the lion, and the sparrow all resumed their own activities in the vast library.",
+            "objects": [
+                [
+                    "an occupying eagle",
+                    [
+                        335,
+                        41,
+                        119,
+                        72
+                    ],
+                    4
+                ],
+                [
+                    "a peaceful lion",
+                    [
+                        285,
+                        281,
+                        162,
+                        180
+                    ],
+                    3
+                ],
+                [
+                    "a sparrow",
+                    [
+                        55,
+                        181,
+                        89,
+                        59
+                    ],
+                    1
+                ]
+            ],
+            "background": "A vast library",
+            "negative": "None"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+/GroundingDINO/
+/image_encoder/
+/models/sdxl_models
+/1.5
+__pycache__
+GroundingDINO/groundingdino_swint_ogc.pth
